@@ -1,7 +1,7 @@
 
 # Hi there, I'm Priyanka Jhala! 👋 
 
-![Frontend Developer Banner](https://cdn.pixabay.com/photo/2018/02/21/10/35/web-3167499_1280.jpg)
+
 
 
 🎓 Aspiring Software Engineer | 🌐 Frontend Enthusiast | 💻 Passionate Developer
