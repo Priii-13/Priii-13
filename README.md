@@ -47,4 +47,4 @@ Thanks for stopping by, and happy coding! 🚀✨
 
 ---
 
-To replace `https://user-images.githubusercontent.com/your-image-url.jpg` with an image URL, you can upload a banner you like to your GitHub repository or link to an external source for a stylish front-end developer image. Let me know if you’d like help finding one or have other preferences!
+
