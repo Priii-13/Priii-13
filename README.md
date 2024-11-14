@@ -40,9 +40,7 @@ Welcome to my GitHub! I'm Priyanka, a developer constantly exploring new technol
 
 Feel free to reach out if you'd like to collaborate or chat about development, new project ideas, or anything tech-related!
 
----
 
-Thanks for stopping by, and happy coding! 🚀✨
 ```
 
 ---
