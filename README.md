@@ -1,7 +1,8 @@
 
-# Hi there, I'm Priyanka Jhala! 👋 ![Waving GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi there, I'm Priyanka Jhala! 👋 
 
-![Frontend Developer Banner](https://user-images.githubusercontent.com/your-image-url.jpg)
+![Frontend Developer Banner](https://cdn.pixabay.com/photo/2018/02/21/10/35/web-3167499_1280.jpg)
+
 
 🎓 Aspiring Software Engineer | 🌐 Frontend Enthusiast | 💻 Passionate Developer
 
